@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "types.h": "c",
+        "user.h": "c",
+        "stat.h": "c",
+        "fs.h": "c",
+        "proc.h": "c",
+        "defs.h": "c",
+        "sysinfo.h": "c",
+        "memlayout.h": "c"
+    }
+}
